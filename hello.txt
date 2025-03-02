@@ -1,3 +1,7 @@
 ken
 sushi
+<<<<<<< HEAD
 hito
+=======
+
+>>>>>>> e1cabdc0e5ecf6937aa8d4412799cd7ec4af7039
